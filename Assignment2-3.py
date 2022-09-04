@@ -1,0 +1,6 @@
+i=int(input("Enter a number:"))
+f=float(input("Enter the decimal number:"))
+s=input("Enter a word:")
+b=bool(input("Enter the boolean values:"))
+c=complex(input("Enter a complex number:"))
+print(i,f,s,b,c,sep=',')
